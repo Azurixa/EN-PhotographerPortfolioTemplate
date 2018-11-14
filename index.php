@@ -52,7 +52,7 @@
 			<!-- slider1 -->
 			<div id="slider1">
 				<div class="slider-text">
-					<h1 class="display-1 pb-4">Ellie Nowak</h1>
+					<h1 class="display-1 pb-4">Elliee Nowak</h1>
 					<h4>professional photographer</h4>
 				</div>
 			</div>
@@ -96,7 +96,7 @@
 									<span class="text-primary">1799$</span> - 8h
 									<ul class="m-0">
 										<li>2 portraits</li>
-										<li>1 landscapes</li>
+										<li>6 landscapes</li>
 										<li>5 personal photos</li>
 										<li>10+ photos total</li>
 									</ul>
@@ -107,7 +107,7 @@
 									<span class="text-primary">2799$</span> - 18h
 									<ul class="m-0">
 										<li>6 portraits</li>
-										<li>5 landscapes</li>
+										<li>7 landscapes</li>
 										<li>10+ personal photos</li>
 										<li>30+ photos total</li>
 									</ul>
